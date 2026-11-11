@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex,nofollow">
+<title>Datenschutz – Naviq</title>
+<style>
+body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif;background:#f6f8fc;color:#15213a;line-height:1.7}
+main{width:min(820px,calc(100% - 40px));margin:70px auto}
+a{color:#2766dd}.back{text-decoration:none;font-weight:700}
+h1{font-size:42px;letter-spacing:-2px}
+h2{margin-top:30px}
+.box{background:white;border:1px solid #e2e8f1;border-radius:18px;padding:28px}
+</style>
+</head>
+
+<body>
+<main>
+
+<a class="back" href="index.html">← Zurück zu Naviq</a>
+<h1>Datenschutzerklärung</h1>
+
+<div class="box">
+
+<h2>1. Verantwortlicher</h2>
+
+<p>
+Nicolas Mack<br>
+Naviq<br>
+Kloster-Lorsch-Straße 7<br>
+74889 Sinsheim<br>
+Deutschland
+</p>
+
+<p>
+E-Mail:
+<a href="mailto:naviq.de@gmail.com">naviq.de@gmail.com</a><br>
+Telefon: 0176 30638555
+</p>
+
+<h2>2. Hosting</h2>
+
+<p>
+Diese Website wird bei Render Services, Inc. gehostet.
+Beim Aufruf der Website können technisch erforderliche
+Verbindungsdaten verarbeitet werden, insbesondere die
+IP-Adresse sowie Geräte- und Browserinformationen.
+</p>
+
+<p>
+Die Verarbeitung erfolgt zur sicheren und zuverlässigen
+Bereitstellung dieser Website auf Grundlage von
+Art. 6 Abs. 1 lit. f DSGVO.
+</p>
+
+<p>
+Render ist ein Anbieter mit Sitz in den USA und gibt an,
+am EU-U.S. Data Privacy Framework teilzunehmen.
+</p>
+
+<p>
+<a href="https://render.com/privacy">
+Datenschutzerklärung von Render
+</a>
+</p>
+
+<h2>3. Kontakt</h2>
+
+<p>
+Wenn du Naviq per E-Mail oder Telefon kontaktierst,
+werden die von dir übermittelten Daten zur Bearbeitung
+deiner Anfrage verarbeitet.
+</p>
+
+<p>
+Geht es um die Vorbereitung oder Durchführung eines
+Vertrags, erfolgt die Verarbeitung gemäß
+Art. 6 Abs. 1 lit. b DSGVO. In anderen Fällen erfolgt
+sie auf Grundlage des berechtigten Interesses an der
+Bearbeitung geschäftlicher Anfragen gemäß
+Art. 6 Abs. 1 lit. f DSGVO.
+</p>
+
+<h2>4. Cookies und Tracking</h2>
+
+<p>
+Naviq setzt auf dieser Website derzeit keine eigenen
+Analyse- oder Trackingdienste und keine eigenen
+Marketing-Cookies ein.
+</p>
+
+<h2>5. Speicherdauer</h2>
+
+<p>
+Personenbezogene Daten werden nur so lange gespeichert,
+wie dies für den jeweiligen Zweck erforderlich ist oder
+gesetzliche Aufbewahrungspflichten bestehen.
+</p>
+
+<h2>6. Deine Rechte</h2>
+
+<p>
+Du hast nach Maßgabe der gesetzlichen Voraussetzungen
+insbesondere Rechte auf Auskunft, Berichtigung, Löschung,
+Einschränkung der Verarbeitung und Datenübertragbarkeit.
+Du kannst außerdem einer Verarbeitung widersprechen,
+die auf Art. 6 Abs. 1 lit. f DSGVO beruht.
+</p>
+
+<p>
+Du hast zudem das Recht, dich bei einer zuständigen
+Datenschutzaufsichtsbehörde zu beschweren.
+</p>
+
+<h2>7. Stand</h2>
+
+<p>November 2026</p>
+
+</div>
+</main>
+</body>
+</html>
